@@ -14,9 +14,9 @@ To note that [there is already a request](https://github.com/containers/storage/
 
 ## Useful resources
 
-[CVMFS Homepage](http://cernvm.cern.ch/portal/filesystem)
-[CVMFS Github](https://github.com/cvmfs/cvmfs)
-[Podman Homepage](https://podman.io/)
-[Podman Github](https://github.com/containers/libpod)
-[Podman Storage](https://github.com/containers/storage)
-[Podman pluging for crfs](https://github.com/giuseppe/crfs-plugin)
+* [CVMFS Homepage](http://cernvm.cern.ch/portal/filesystem)
+* [CVMFS Github](https://github.com/cvmfs/cvmfs)
+* [Podman Homepage](https://podman.io/)
+* [Podman Github](https://github.com/containers/libpod)
+* [Podman Storage](https://github.com/containers/storage)
+* [Podman pluging for crfs](https://github.com/giuseppe/crfs-plugin)
